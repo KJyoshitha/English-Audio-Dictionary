@@ -25,8 +25,8 @@ A desktop-based **Digital English Dictionary** built with **Python** and **Custo
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/digital-english-dictionary.git
-cd digital-english-dictionary
+git clone https://github.com/KJyoshitha/English-Audio-Dictionary.git
+cd English-Audio-Dictionary
 ```
 
 ### 2. Install dependencies
